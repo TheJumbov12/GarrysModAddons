@@ -7,19 +7,7 @@ local sam = sam
 local ips = {}
 -- Sample list of words to check for
 local bannedWords = {
-    "nigger",
-    "nigga",
-    "faggot",
-    "fag",
-    "fags",
-    "fagot",
-    "fagot's",
-    "jap",
-    "japs",
-    "chink",
-    "chinks",
-    "tranny",
-    "trannies",
+ -- Add your own here!
 }
 
 -- Function to check if a message contains any banned word
